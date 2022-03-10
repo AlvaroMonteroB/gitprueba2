@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 void main(){
-    puts("ola comostan");
+    puts("Estimados compañeros");
 }
